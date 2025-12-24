@@ -1,4 +1,4 @@
-# 📌 Incident 3 – SharePoint ToolShell Auth Bypass & Remote Code Execution
+#  Incident 3 – SharePoint ToolShell Auth Bypass & Remote Code Execution
 
 **Platform:** LetsDefend.io  
 **Incident ID:** 320  
