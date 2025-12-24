@@ -17,3 +17,4 @@ Each incident includes:
 - Remediation steps
 
 > All data is sanitized and created for learning and portfolio purposes.
+# SOC_DOCUMENTATION
