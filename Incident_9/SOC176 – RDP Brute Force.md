@@ -1,4 +1,4 @@
-# 📌 Incident 9 – RDP Brute Force Detected (Successful Compromise)
+#  Incident 9 – RDP Brute Force Detected (Successful Compromise)
 
 **Platform:** LetsDefend.io  
 **Incident ID:** 234  

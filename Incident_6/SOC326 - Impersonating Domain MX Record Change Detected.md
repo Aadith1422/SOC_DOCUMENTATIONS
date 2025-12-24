@@ -1,4 +1,4 @@
-# 📌 Incident 6 – Impersonating Domain MX Record Change Detected
+#  Incident 6 – Impersonating Domain MX Record Change Detected
 
 **Platform:** LetsDefend.io  
 **Incident ID:** 304  

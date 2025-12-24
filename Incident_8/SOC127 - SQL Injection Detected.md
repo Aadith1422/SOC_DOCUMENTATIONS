@@ -1,4 +1,4 @@
-# 📌 Incident 8 – SQL Injection Detected (SOC127)
+#  Incident 8 – SQL Injection Detected (SOC127)
 
 **Platform:** LetsDefend.io  
 **Incident ID:** 235  
